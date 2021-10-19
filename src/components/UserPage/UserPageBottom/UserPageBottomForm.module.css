@@ -1,0 +1,15 @@
+.Form{
+    padding: 10px;
+}
+
+.InputFrame {
+    display: flex;
+    margin-bottom: 5px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+input{
+    width: 60%;
+}
